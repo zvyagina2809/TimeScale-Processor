@@ -1,0 +1,6 @@
+@TimeScale_Processor_HostAddress = http://localhost:5268
+
+GET {{TimeScale_Processor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
